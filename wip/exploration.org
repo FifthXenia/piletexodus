@@ -1,0 +1,126 @@
+* Concepts
+- Brave New World is out sensory overload, causing us to stop thinking critically about reality.
+- Buddhism is about sense restraint, and coming to terms with reality.
+  - Jhana is about sense restraint, to the point of bliss without external stimulus.
+- Piletexod.us will bring us closer to restraint, and jhana, rather than sensory overload, and irreality.
+* Display in a table format
+#+ATTR_ORG: :width 400
+[[file:.images/2023-06-25_18-26-43_screenshot.png]]
+
+* Structure
+- Each day has a heading like ~Exodus #83 (06-25-23 Sun):~
+  - Match on ~Exodus.*06-25-23~
+    - (Can experiment regexes with ~list-matching-lines~)
+    - ~Exodus~ is a keyword, that is mainly used to indicate each distinct journal entry for the day.
+- We can isolate a given days entry with ~org-mark-subtree~
+- ~output.json~
+  - List of ~csv~ like structures.
+  - ~[[(csv k/v pairs for data)(schema)]]~
+
+* Storage:
+
+** CSV (Not using this)
+*** Problems
+- If schema changes (columns), you need an entirely new CSV.
+**** Q: How would I handle schema changes?
+- Would need multiple CSV files, likely with dates it applies encoded in the file names:
+  - ~06-25-23-to-06-28-23.csv~, etc.
+**** Q: How to export the csv, from elisp?
+- https://github.com/rejeep/f.el
+  - https://emacs.stackexchange.com/questions/18281/how-to-do-a-simple-write-to-file
+  - f third-party library has f-write-text and some other file manipulation functions, such as f-exists? predicate:
+  - ~(f-write-text "some string" 'utf-8 "path/to/my/file.txt")~
+**** Q: How to display num streak for each item? *(THIS IS MORE COMPLICATED THAN JSON WAY!)*
+- linear search back from current day, and all previous CSVs if same item was being done in previous CSVS, and chain remains unbroken, such that I need to keep searching previous CSV exports.
+** JSON (Using this)
+*** Problems
+- Larger size, columns are duplicated under each key.
+**** Q: How to export JSON?
+- https://stackoverflow.com/questions/28970943/how-to-convert-a-huge-elisp-data-structure-to-json
+**** Structure?
+***** 1: Key Value pairs, where key is column (what your tracking), value is date (DD-MM-YY)
+- ~[]~
+***** 2: 
+**** Q: How to display num streak for each item?
+- Simply start at current day (DD-MM-YY)
+- *I can store this as a separate JSON MAP (~{data (map), streak (map)}~), or as a separate sub element (~.data~, ~.streak~) - (but this would be JS datastructures, not sure if that can be encoded in JSON like that, it may just only be do 2 maps is allowed for encoding)*
+  - I think having a map for data, and a map for streaks makes sense.
+*** How to implement the code.
+- (I need to re-calculate/re-process everything. Or I can load previous ~.json~, and append current day to it)
+  - (It makes sense to have a ~process-all()~, where it re-generates the entire json, and a ~process-today()~, where it appends the current days values to maps, updates streak map.)
+**** 1: ~process-all()~
+***** 0: Regex, find all journal entries
+- piletexodus.2023.05may.shippingco.org
+- piletexodus.2023.06june.shippingco.org
+
+- Maybe match with:
+  - ~piletexodus.[0-9][0-9][0-9][0-9].01jan.shippingco.org~
+    - Could replace 01jan, etc, with groups
+      - https://www.emacswiki.org/emacs/RegularExpression
+      - ~(01jan or 02feb or 03mar)~, etc.
+***** 1: Regex, find entry for each day
+- regex on ~Exodus.*#~, traverse through each entry
+
+  #+begin_src emacs-lisp :tangle yes
+(defun all-exodus-entries-in-buffer ()
+  (s-match-strings-all
+   "Exodus.*#[0-9][0-9].*"
+   (buffer-string)))
+(all-exodus-entries-in-buffer)
+#+end_src
+
+#+RESULTS:
+| Exodus #83 (06-25-23 Sun): |
+| Exodus #82 (06-23-23 Fri): |
+| Exodus #81 (06-21-23 Wed): |
+| Exodus #80 (06-19-23 Mon): |
+| Exodus #79 (06-18-23 Sun): |
+| Exodus #78 (06-12-23 Mon): |
+| Exodus #77 (06-11-23 Sun): |
+| Exodus #76 (06-09-23 Fri): |
+| Exodus #75 (06-08-23 Thu): |
+| Exodus #74 (06-07-23 Wed): |
+| Exodus #73 (06-06-23 Tue): |
+| Exodus #72 (06-05-23 Mon): |
+| Exodus #71 (06-04-23 Sun): |
+| Exodus #70 (06-03-23 Sat): |
+| Exodus #69 (06-02-23 Fri): |
+| Exodus #68 (06-01-23 Thu): |
+
+**** 2: ~process-today()~
+- (Assume user is running this in current file)
+***** 1: Regex, find single entry for current date
+- regex on ~Exodus.*#~, traverse through each entry
+
+  #+begin_src emacs-lisp :tangle yes
+(defun all-exodus-entries-in-buffer ()
+  (s-match-strings-all
+   "Exodus.*#[0-9][0-9].*"
+   (buffer-string)))
+(all-exodus-entries-in-buffer)
+#+end_src
+
+#+RESULTS:
+| Exodus #83 (06-25-23 Sun): |
+| Exodus #82 (06-23-23 Fri): |
+| Exodus #81 (06-21-23 Wed): |
+| Exodus #80 (06-19-23 Mon): |
+| Exodus #79 (06-18-23 Sun): |
+| Exodus #78 (06-12-23 Mon): |
+| Exodus #77 (06-11-23 Sun): |
+| Exodus #76 (06-09-23 Fri): |
+| Exodus #75 (06-08-23 Thu): |
+| Exodus #74 (06-07-23 Wed): |
+| Exodus #73 (06-06-23 Tue): |
+| Exodus #72 (06-05-23 Mon): |
+| Exodus #71 (06-04-23 Sun): |
+| Exodus #70 (06-03-23 Sat): |
+| Exodus #69 (06-02-23 Fri): |
+| Exodus #68 (06-01-23 Thu): |
+***** 2: 
+* Res
+** Sub-Selections
+- https://stackoverflow.com/questions/65217967/how-to-copy-org-mode-contents-under-a-heading
+- https://emacs.stackexchange.com/questions/32509/org-export-json
+** Take picture for evidence
+- https://codeberg.org/akib/emacs-camera
