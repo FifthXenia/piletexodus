@@ -2,9 +2,10 @@
 - You track something, and you publish either an artifact or something to indicate proof-of-work.
 * Why?
 - Ensure momentum, consistency, and accountability.
-* How?
-- Plain text habit tracking (~.org~ / ~.md~ / ~.txt~ table).
-* Community (TBD)
+* How? (options)
+- 1: Plain text table habit tracking (~.org~ / ~.md~ / ~.txt~).
+- 2: Browsable artifact feed by day for a particular action (say for art/music)
+* Community Indexer (TBD)
 - Indexer of individuals participating in this at ~piletexod.us~
-  - Add/Remove automated my PRs and merge bots.
-  - Individual is removed after 30 days of no activity (no commits in their linked github piletexodus project)
+  - Add/Remove of individuals automated by their PRs and with merge bot rules.
+  - Individual is removed from indexer after 30 days of no activity (no commits in their linked github piletexodus project)
