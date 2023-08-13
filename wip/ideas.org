@@ -1,0 +1,61 @@
+* The Clear Vision
+- You track something, and you publish something. That's the main fucking idea we're going for, and what we're innovating on. We like feedback loops that are transparent, and public to some extent. Pretty much any activity you can think of, can be tracked and traced.
+  - (If you're a industry musician, and you can't publish the work that you worked on, you could publish a check-in photo, or something, that indicates we can trust that you handled your business.)
+  - It's partially about status, and signalling. This is a very positive heedful form of social signalling - it's based off of raw work and production, not violence and deception and raw cunning and positioning. But let's keep it real, keeping a real fucking routine, is a shippable product. What the fuck are you doing except building a fucking promotional of past work and performances through your a 9-5? This is no fucking different. So we're always shipping. That's how reality works. It's the same throughout everything. Your a musician, let's see your work. Let's see development, and progress, and effort, iterations, over a period of time. Trust and integrity depend on shippables. Character depends on actions.
+    - (This is a similar line of thinking with the rebrand from Twitter -> X, and the open sourcing of all the algorithms and how content is flagged as edgy, and a risk. He wants it to be so that you can run this stuff (run the whole fucking platform)  offline, and see (simulate/test) if your post would be flagged as edgy. So transparent, open source everything. Same with the community notes feature - more transparent fact checking. Also the check marks being segmented, so you can see who is a citizen journalist, government journalist, yada yada yada. It's not just one big checkmark blob, and you don't have to DM a special person to get a checkmark. Now it's more transparent to get a checkmark, you just pay $7/mo or whatever it is, instead of a $20k blackmarket payment to some random DM. And I guess checkmarks requiring CC + phone number does slightly help bot reduction, and spam.)
+  - But it's also about focusing on the process, and not just shilling goals and achievements. Gap vs Gain. Focusing on the gain (progress made), and not the gap (result, comparison). It's also similar to a REPL, and the lisp/emacs mentalities. Just constant tweaking/yak shaving. Small changes, that add up to something bigger. Low stress, just tweak the current pain point, and then tweak it again and make it a little better, towards a slightly more ideal future. No grand changes were ever made, but progress was made.
+** Collaboration features:
+- Buddy feature: Could do competitions. We compete, or train for a marathon, post runs, or run data (gps data, or just extractions/highlights from data: ft ascended, HR, time, distance, mi/min pace, whatever).
+- Criteria Gates: Have to meet some criteria, to participate in this group, or retain access to this file (like a mastermind group index about meeting times), etc.
+- Automatic Verifier: Use AI to judge/verify work was performed, and product a check/approval output for it. Like if you meditate, make sure person is in frame, if passes, then put some verification on that activity, that it was done within reason, verified by this bot.
+* Philosophy:
+- The Philosophy of the Middle Finger: People (and thus Society via complement/identity function) function at their best, when they publicly raise their middle finger towards the world - and have cultivated enough character to back it up (middle fingers raised in private don't amount to the same, because if you can do it in public, what character flaw / deficiency in character prevents you from doing the same in public? I.E. Why is your behavior two-faced? Be one-faced. Put your middle finger in the air publicly, and stand for, and defend your positions, anywhere, and at all times, and under any circumstance. Anything else is deceit. Instead, try: Courage. Honor. Transparency. No Deception. Honesty. Tough Love. Harsh Truths. Trials and Tribulations. All Out in the Open, where we can inspect if you are really about what you say.).
+#+ATTR_ORG: :width 600
+[[file:.images/2023-06-27_00-35-21_screenshot.png]]
+
+* Example Output
+** Horizontal
+|----------+--------+-----------+-----------+-----+-----------+----------+-------|
+| λλλλλλλλ | Wakeup | Gratitude | Escapades | Jog | Vipassana | Pomodoro | Sleep |
+|----------+--------+-----------+-----------+-----+-----------+----------+-------|
+| 06-27-23 |   9:00 |           |           |     |           |          |       |
+|----------+--------+-----------+-----------+-----+-----------+----------+-------|
+
+* Inspiration:
+#+begin_quote
+“When the production finally wrapped, Arliss Howard went over to say goodbye to Kubrick. And he said, ‘yeah well Stanley, I’ll see you later.’ And Stanley said, ‘You know, you’re going to miss me.’ And Arliss said ‘yeah, yeah I am going to, I will, I’ll miss you.’ He goes ‘No, no. You’re going to really miss me, when you’re working on a set, and the director calls cut, we got it, let’s move on. And you’re going to know, that you don’t have it, and that we shouldn’t move on, and you’re going to miss me. Because you know, that I would never cut, and say let’s move on, unless I knew we had it. And you’re going to miss me.’ And Arliss said the first time that he went to work on another film, and the guy said cut, we got it, let’s move on. He said, ‘I really miss Stanley.’”
+#+end_quote
+
+* About:
+- 1: Keep a journal in plaintext (~.org~, ~.md~).
+- 2: Track execution (say checkboxes)
+- 3: Have a parser, that parses the journal, creates a binary (completed/not completed) CSV, of whether your routines were executed on a given day or not.
+- 4: Put this csv in a public git repo.
+- 5: On push, send update to pilétexodus, to update frontend. (Or maybe just parse it on page load, iframe it).
+  - Or can have a git static site, that is updated, and then piletexodus site just iframes the git site.
+  - Frontend indicates whether each part of routine was done or not.
+- 6: You get a custom URL, such as ~piletexod.us/greghab~, and then it will list your habits/routine (say a react site, or could be plain text, maybe CSS selectors no JS), and what you accomplished that day (could also list things like: ~completed: 6x pomodoros~).
+  - Selectors to view a given day.
+  - Streaks published.
+  - To get unique username registered, can do oath off of github username. Sign in with github, or something.
+
+** Engineering Aspects:
+- Have some sort of function, which parses a subset of journal files (can regex match to them).
+- Generate CSV, of how things went for each day.
+- Have separate public git repo, just for piletexodus on computer.
+- Have function export the csv to the external git repo (updating that csv in the root dir)
+- Have a cron job, that does a ~git add .~, ~git commit -m 'update piletexodus via cron'~, ~git push~, to push changes.
+  - Have hook, that upon push, piletexod.us updates changes. Can have timeout, so that even if they push more frequently, it won't process more than say 5x updates/day, or maybe 1x/day.
+* Purpose:
+- Expose/publish that one is accomplishing a routine, with a streak number, without exposing any private data, on a personal journal.
+- Shows others that people are getting shit done, staves off degeneracy in society. Inspires. Shows leadership. Communicates discipline, planning, foresight.
+- ~destroy the cult of idol worship~
+* Future features:
+- Additional csv, with links to attachments for review, etc.
+  - Useful if you have kids, or friends you are trying to enforce habits/routines with, and want check-ins/proof of work.
+** Photo Real (Proof-Of-Work)
+*** Output: Horizontal, compressed and small images of the work scene (EX: You working, you meditating, etc)
+*** How:
+- Maybe: https://codeberg.org/akib/emacs-camera
+  - Might need an external webcam, if taking photos via computer, to get a good angle. (If working on laptop, face isn't best angle. I guess it makes sense, but better would be off to side, with you sitting/standing up, looking at monitor)
+  - 
