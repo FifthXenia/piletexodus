@@ -1,3 +1,4 @@
+*Pronounced: "pea-lay Exodus"*
 * The Idea
 - You track something, and you publish either an artifact or something to indicate proof-of-work.
 * Why?
