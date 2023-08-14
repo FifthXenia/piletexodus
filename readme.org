@@ -12,7 +12,7 @@
   - Individual is removed from indexer after 30 days of no activity (no commits in their linked github piletexodus project)
 ** Additional Fun Features:
 *** Leaderboard:
-**** IronMan Mode
+**** (Hardcore) IronMan Mode, and just Generic
 - Daily (Post every 2x days, otherwise dropped).
 - Weekly (every 8 days latest).
 - Sechs (6) (Every 7 days latest)
