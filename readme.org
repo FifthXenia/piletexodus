@@ -16,6 +16,6 @@
 - Weekly (every 8 days latest).
 - Sechs (6) (Every 7 days latest)
 *** Challenges
-- Add other users, to your allowed interactive users list. Then can do challenges (like weekly). Get reports (summaries).
+- Add other users, to your allowed interactive users list. Then can do challenges (like weekly). Get reports (summaries) regarding everybodies completion, ranking in the competition.
 *** Proof-Of-Work Integrations:
 - Like for meditation, have a marketplace of verifiers (image recognition, make sure your in frame, etc), then output an attached approval/rejection for successfull completion of that activity.
