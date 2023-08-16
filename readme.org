@@ -2,7 +2,7 @@
 * The Idea
 - You track something, and you publish either an artifact or something to indicate proof-of-work.
 * Why?
-- Ensure momentum, consistency, and accountability, encourage others.
+- Ensure momentum, consistency, accountability, and encourage others.
 * How? (options)
 - 1: Plain text tracking (~.org~ / ~.md~ / ~.txt~), typically via habit tables.
   - (Or exports (could be redacted) from some sort of tracking system, such as [[https://github.com/ml729/org-habit-stats][org-habit-stats]], [[https://github.com/ml729/calfw-blocks][calfw-blocks]], [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]], [[https://github.com/Fuco1/org-timeliney][org-timeline]], [[https://github.com/dmitrym0/org-hyperscheduler][org-hyperscheduler]])
