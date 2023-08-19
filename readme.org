@@ -1,6 +1,6 @@
 *Pronounced: `pea-lay Exodus`*
 * The Core Idea (production)
-- You track something, and you publish either an artifact or something to indicate proof-of-work.
+- You track something, and you publish either an artifact or something to indicate proof-of-work (in it's own particular feed).
 ** Tertiary Ideas (interaction, resources)
 - You can subscribe to particular feeds, and mix and match them to a combined feed for browsing.
 - You can provide money for every x things produced in a given feed.
