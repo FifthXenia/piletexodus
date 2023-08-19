@@ -1,6 +1,8 @@
 *Pronounced: `pea-lay Exodus`*
 * The Idea
 - You track something, and you publish either an artifact or something to indicate proof-of-work.
+** Core Principle:
+- Promote ~Freedom of Action~ over ~Freedom of Speech not Reach~ (What Elon is doing at X)
 * Why?
 - Ensure momentum, consistency, accountability, and encourage others.
 * How? (options)
