@@ -3,7 +3,7 @@
 - You track something, and you publish either an artifact or something to indicate proof-of-work.
 ** Tertiary Ideas (interaction, resources)
 - You can subscribe to particular feeds, and mix and match them to a combined feed for browsing.
-- You can give people money for every x things produced in a given feed.
+- You can provide money for every x things produced in a given feed.
 ** Core Principle:
 - Promote ~Freedom of Action~ over ~Freedom of Speech not Reach~ (What Elon is doing with X)
 * Why?
