@@ -25,8 +25,8 @@
 - Add other users, to your allowed interactive users list. Then can do challenges (like weekly). Get reports (summaries) regarding everybodies completion, ranking in the competition.
 *** Proof-Of-Work Integrations:
 - Like for meditation, have a marketplace of verifiers (image recognition, make sure your in frame, etc), then output an attached approval/rejection regarding the successful completion of that activity.
-*** Crypto subscriptions to feeds (to artifact production)
-- If you like somebody who is making music or art, you can subscribe with a small amount per day, or something. Or queue it up per week (assuming daily post). Or maybe pay 0.00000001bitcoin/20posts, or something.
+*** Monetary subscriptions to feeds (to artifact production)
+- If you like somebody who is making music or art, you can subscribe with a small amount per day, or something. Or queue it up per week (assuming daily post). Or maybe pay 0.00000001bitcoin/usd/20posts, or something.
   - (Current problem with say Github Sponsors, or Patreon, etc, is wtf am I paying for. How do I know I'm not just paying your habit to diddle little children? How do I know your even doing anything? More transparency in output would help in this. So it works such that: I'm providing funding, given progress made in area x, via artifacts uploaded at y amount/frequency. I'm funding the process, less the outcome. The outcome will come.)
 *** Wall of Ancestors
 - Images of your ancestors, a blurb about them.
