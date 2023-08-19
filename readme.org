@@ -35,3 +35,5 @@
 - So you can view later.
 - Or maybe also have a personal general feed, that fetches updates from all the feeds that you've favourited.
 - RSS output per feed would be cool as well.
+* Others with somewhat similar conceptual overlap
+- https://cohost.org/rc/welcome
