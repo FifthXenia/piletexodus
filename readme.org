@@ -35,5 +35,13 @@
 - So you can view later.
 - Or maybe also have a personal general feed, that fetches updates from all the feeds that you've favourited.
 - RSS output per feed would be cool as well.
+*** Custom Audio/MultiMedia Player
+- Allow changing speeds with slider, increments that snap (0.75, 0.83, 1, 1.1, etc)
+  - Have a star or something, that indicates the speed I like.
+  - Option to play at a given speed I set by default.
+- Ability to play with vocal tracks.
+  - Vocal tracks appear below, you select what you want to play with beat.
+- Ability to play some sort of multimedia with the music.
+  - (Show picture, slideshow, animation, etc.)
 * Others with somewhat similar conceptual overlap
 - https://cohost.org/rc/welcome
