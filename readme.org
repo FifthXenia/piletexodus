@@ -31,3 +31,6 @@
 *** Wall of Ancestors
 - Images of your ancestors, a blurb about them.
 - Why: Inspires a spiritual legacy to your genes. Your ancestors were fighting, and produced you. So you have to keep going, and continue the fight, that they left to you. (Romans did this. Also any royal family, people that rule others, do this type of thing. Look at masons as well, it's the "Ancient Babylon Religion".)
+*** Ability to subscribe/pin/favorite feeds.
+- So you can view later.
+- Or maybe also have a personal general feed, that fetches updates from all the feeds that you've favourited.
