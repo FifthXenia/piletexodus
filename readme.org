@@ -12,7 +12,7 @@
 - Promote expression, over suppression.
 - Prevent people from self-destructing from the inside out, and/or from severing their imagination and ability to stretch and strive, reverting to a mere existence centered around the inputs of the external and the depositions of their internal dialogue telling them to stay down like a trained dog and lick the boot that feeds them so they don't get kicked and punted across the room. Expanded horizons are possible.
 - There should be a lane and place for those who wish to focus less on competition, and status, and domination, and instead focus more on expressing what they want to express, and living authentically and honestly according to their values. A chasm separating one from the relentless impositions of the outer world.
-- The earth is full of a bunch of addicted humans (myself included). This will help cleanse their mind and spirit, and provide them with insight and the room to breathe.
+- The earth is full of a bunch of addicted humans (myself included). This will help cleanse their mind and spirit, and provide them with additional insight and room to breathe.
 * How? (options)
 - 1: Plain text tracking (~.org~ / ~.md~ / ~.txt~), typically via habit tables.
   - (Or exports (could be redacted) from some sort of tracking system, such as [[https://github.com/ml729/org-habit-stats][org-habit-stats]], [[https://github.com/ml729/calfw-blocks][calfw-blocks]], [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]], [[https://github.com/Fuco1/org-timeliney][org-timeline]], [[https://github.com/dmitrym0/org-hyperscheduler][org-hyperscheduler]])
