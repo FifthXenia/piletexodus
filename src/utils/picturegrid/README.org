@@ -1,5 +1,5 @@
 Uses:
-- proof-of-work for meditation, or others.
+- proof-of-work for meditation, or other related activities.
 
 File:
 - ~picturegrid64min.py~
