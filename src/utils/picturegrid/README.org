@@ -7,6 +7,6 @@ File:
 Output Format:
 - ~MM-DD-YY-HH-MM-meditation64.jpg~
 
-200x200 output:
+200x200 output (89kb):
 
 [[file:image_200x200.png]]
