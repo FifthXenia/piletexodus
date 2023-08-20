@@ -48,5 +48,9 @@
   - Vocal tracks appear below, you select what you want to play with beat.
 - Ability to play some sort of multimedia with the music.
   - (Show picture, slideshow, animation, etc.)
-* Others with somewhat similar conceptual overlap
-- https://cohost.org/rc/welcome
+* Others with somewhat similar conceptual overlap to watch
+** Action:
+** Speech:
+*** Twitter/Mastodon Derivatives 
+**** https://cohost.org/rc/welcome
+  - No ads. Supported via voluntary payments. No metrics (likes, dislikes, number of followers), main feed is chronological order. Pages around particular things, and tags. Still focused on speech, not action. Posting accepts markdown, if paying up to 10mb of attachments. Can use CSS in markdown, for interactive posts. People you follow can see your private contact info. People who just follow you, cannot. Code of conduct. Schewed towards queer. Not doing what I'm trying to do here.
