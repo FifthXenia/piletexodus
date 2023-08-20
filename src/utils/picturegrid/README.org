@@ -9,4 +9,4 @@ Output Format:
 
 200x200 output (89kb):
 
-[[file:image_200x200.png]]
+[[file:ex_image_200x200.png]]
