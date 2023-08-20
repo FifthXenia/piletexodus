@@ -5,4 +5,5 @@ Output Format:
 - ~MM-DD-YY-HH-MM-meditation64.jpg~
 
 200x200 output:
+
 [[file:image_200x200.png]]
