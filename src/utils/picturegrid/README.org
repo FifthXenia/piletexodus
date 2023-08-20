@@ -3,7 +3,8 @@ Uses:
 
 File:
 - ~picturegrid64min.py~
-
+  - 64 pictures, 1/min.
+  
 Output Format:
 - ~MM-DD-YY-HH-MM-meditation64.jpg~
 
