@@ -1,3 +1,6 @@
+Uses:
+- proof-of-work for meditation, or others.
+
 File:
 - ~picturegrid64min.py~
 
