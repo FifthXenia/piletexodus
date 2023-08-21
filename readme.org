@@ -1,8 +1,6 @@
-*Pronounced: `pea-lay Exodus`*
-
 #+ATTR_ORG: :width 600
 [[file:.images/Musei_vaticani_-_cortile_del_Belvedere_01137-9-500x.JPG]]
-
+*Pronounced: `pea-lay Exodus`*
 * The Core Idea (production)
 - You track something, and you publish either an artifact or something to indicate proof-of-work (in it's own particular feed).
 ** Tertiary Ideas (interaction, resources)
