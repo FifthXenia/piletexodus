@@ -1,5 +1,8 @@
 #+ATTR_ORG: :width 600
 [[file:.images/Musei_vaticani_-_cortile_del_Belvedere_01137-9-500x.JPG]]
+
+https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd-f6804b820991
+
 *Pronounced: `pea-lay Exodus`*
 * The Core Idea (production)
 - You track something, and you publish either an artifact or something to indicate proof-of-work (in it's own particular feed).
