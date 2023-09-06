@@ -2,5 +2,5 @@
 |----------------------------------------+------------------------------------------------------------|
 | pilétexodus                            | About                                                      |
 |----------------------------------------+------------------------------------------------------------|
-| https://github.com/greghab/piletexodus | Doodle, Melodies, Habit Tracking, Meditation, Timeblocking |
+| https://github.com/greghab/piletexodus | Doodles, Melodies, Habit Tracking, Meditation, Timeblocking |
 |----------------------------------------+------------------------------------------------------------|
