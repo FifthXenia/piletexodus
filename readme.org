@@ -64,7 +64,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
   - Vocal tracks appear below, you select what you want to play with beat.
 - Ability to play some sort of multimedia with the music.
   - (Show picture, slideshow, animation, etc.)
-* Others with somewhat similar conceptual overlap to watch
+* Others with somewhat similar conceptual overlap to note
 ** Action:
 *** hadge
 - https://github.com/ashtom/hadge
