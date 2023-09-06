@@ -76,3 +76,5 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
   - Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
 ** Quantified-Self:
 - https://github.com/woop/awesome-quantified-self
+- Don't try to monetize anything.
+  - See: https://github.com/open-nomie/nomie6-oss
