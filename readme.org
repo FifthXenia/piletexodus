@@ -10,7 +10,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 
 ---------
 
-* The Core Idea (production)
+* The Core Idea (production feeds)
 - You track something, and you publish either an artifact or something to indicate proof-of-work (in it's own particular feed).
 ** Tertiary Ideas (interaction, resources)
 - You can subscribe to particular feeds, and mix and match them to a combined feed for browsing (if the feeds are public).
