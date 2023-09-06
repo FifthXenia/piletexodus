@@ -71,7 +71,9 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
   - Github Action, exports exercise data, creates graph on github. Pretty cool. Similar idea to what I want to do.
 #+ATTR_ORG: :width 600
 [[file:.images/2023-09-05_17-35-11_screenshot.png]]
-
+*** awesome-pinned-gists
+- https://github.com/matchai/awesome-pinned-gists
+- Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
 ** Speech:
 *** Twitter/Mastodon Derivatives 
 **** https://cohost.org/rc/welcome
