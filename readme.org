@@ -33,6 +33,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 * Community Indexer (TBD)
 - Indexer of individuals participating in this hosted at ~piletexod.us~
   - Add/Remove of individuals automated by their PRs and with merge bot rules.
+    - (Need merge bots to avoid manual work, and to avoid something like this: https://github.com/zero-to-mastery/Animation-Nation/pull/1661)
   - Individual is removed from indexer after 30 days of no activity (no commits in their linked github piletexodus project)
   - (Maybe long-term set this up via a external server, that git clones people repos who are registered, processes their feeds, and hosts them (habit tracking, art, music, etc). If art uploaded say to ipfs or something, then iframe the content - display it from external. Tell people that you'll only process their repo say if it's less than 100MB or something, so that I have enough space to store everyone. So don't put images/videos/content in your piletexodus repo. Link to it externally. Just give me text, structure, and links. We'll process it, and host and present it under your username for you. Also host a readme for them.)
     - Or maybe host the indexer in a github actions/pages site, and have a github action/pages configuration that self-hosts individual sites on their accounts. If they go over the 5gb for their repo that github allows, they can use say ipfs for hosting. Or maybe also target gitea/forgejo self hosting as an option.
