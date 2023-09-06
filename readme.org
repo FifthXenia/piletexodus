@@ -74,7 +74,5 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 *** awesome-pinned-gists
 - https://github.com/matchai/awesome-pinned-gists
   - Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
-** Speech:
-*** Twitter/Mastodon Derivatives 
-**** https://cohost.org/rc/welcome
-  - No ads. Supported via voluntary payments. No metrics (likes, dislikes, number of followers), main feed is chronological order. Pages around particular things, and tags. Still focused on speech, not action. Posting accepts markdown, if paying up to 10mb of attachments. Can use CSS in markdown, for interactive posts. People you follow can see your private contact info. People who just follow you, cannot. Code of conduct. Schewed towards queer. Not doing what I'm trying to do here.
+** Quantified-Self:
+- https://github.com/woop/awesome-quantified-self
