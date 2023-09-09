@@ -65,6 +65,11 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
   - Vocal tracks appear below, you select what you want to play with beat.
 - Ability to play some sort of multimedia with the music.
   - (Show picture, slideshow, animation, etc.)
+*** Github readme embeddedable stats for piletexodus (streak, etc)
+
+- https://stackoverflow.com/questions/70073951/how-to-align-readme-stats-side-by-side-in-github
+
+#+HTML:<div style="display: flex; flex-direction: row;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=greghab&show_icons=true&theme=radical" /> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greghab&theme=radical&layout=compact" /> </div>
 * Others with somewhat similar conceptual overlap to note
 ** Action:
 *** hadge
