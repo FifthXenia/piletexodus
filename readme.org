@@ -79,6 +79,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 [[file:.images/2023-09-05_17-35-11_screenshot.png]]
 - Could do something like this, but with the OSS local private android app [[https://github.com/OpenTracksApp/OpenTracks][OpenTracks]] (it supports automatic export, then rsync it out with a termux cron job, have something that processes the data, extracts just run time, pace, etc.)
   - https://github.com/OpenTracksApp/OpenTracks/issues/181
+  - https://github.com/fg1/BLEHeartRateLogger
 *** awesome-pinned-gists
 - https://github.com/matchai/awesome-pinned-gists
   - Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
