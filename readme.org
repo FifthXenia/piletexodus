@@ -86,6 +86,17 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
     - https://gitlab.com/postmarketOS/pmaports/-/issues?label_name=device-purism-librem5
     - https://forums.puri.sm/t/the-librem-5-kicks-ass/21187 (no gps/camera pmos+sxmo)
     - https://old.reddit.com/r/PINE64official/comments/pqm9so/pine_time_with_gps/ (pinetime can't do gps)
+      - Only gps asteroid os watches are:
+        - https://asteroidos.org/watches/beluga/ (Snapdragon Wear 3100, bluetooth, gps, wlan, partial usb)
+        - https://asteroidos.org/watches/pike/ (has no wlan, can't easily get gpx data off, no bluetooth either for HR)
+        - https://asteroidos.org/watches/hoki/ (newest watch, Snapdragon Wear 4100, no gps, wlan, but has bluetooth, partial usb)
+      - Asteroid apps:
+        - hrm: https://github.com/AsteroidOS/asteroid-hrm
+        - maps: https://github.com/AsteroidOS/meta-asteroid-community/tree/master/recipes-navigation/asteroid-map
+          - https://old.reddit.com/r/AsteroidOS/comments/wyhuh8/can_asteroidos_run_google_maps_with_navigation/
+            - "Not at the moment. We currently don't have a map app. I've managed to get a map to work, but it was really basic and things such as navigation will take some work"
+          - https://old.reddit.com/r/AsteroidOS/comments/12ufy6p/watches_with_gps_what_is_preventing_better/
+            - "There is only one community map app currently, and exactly the creation of it triggered the slow implementation of GPS for watches that got the hardware."
 *** awesome-pinned-gists
 - https://github.com/matchai/awesome-pinned-gists
   - Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
