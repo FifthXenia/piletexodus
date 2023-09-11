@@ -83,6 +83,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
     - https://forums.puri.sm/t/ringconn-native-on-linux/21194/24
     - https://forums.puri.sm/t/is-gps-supposed-to-work/21147/48
     - https://gitlab.com/postmarketOS/pmaports/-/issues?label_name=device-purism-librem5
+    - https://forums.puri.sm/t/the-librem-5-kicks-ass/21187 (no gps/camera pmos+sxmo)
 *** awesome-pinned-gists
 - https://github.com/matchai/awesome-pinned-gists
   - Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
