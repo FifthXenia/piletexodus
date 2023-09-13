@@ -106,7 +106,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 *** https://github.com/yihong0618/2023
 - Very similar to what I'm thinking.
   - Extra stuff here (prs, commits, etc).
-  - Just indexing by year, seems like a decent way to do things.
+  - Just indexing project name by just year, seems like a decent way to do things.
 *** https://github.com/yihong0618/GitHubPoster
 - Pretty neat. Proof-of-work is based on services. Or GPX one, can use local gpx files.
 *** https://github.com/flopp/GpxTrackPoster
