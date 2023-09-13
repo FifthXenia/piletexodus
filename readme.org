@@ -111,6 +111,8 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 - Pretty neat. Proof-of-work is based on services. Or GPX one, can use local gpx files.
 *** https://github.com/flopp/GpxTrackPoster
 - gpx data heatmap.
+*** https://yihong.run/
+- This is nuts. I guess he's OK publishing his individual gpx routes.
 ** Quantified-Self:
 - https://github.com/woop/awesome-quantified-self
 - Don't prioritize/rely on monetizing anything.
