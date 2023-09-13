@@ -99,9 +99,18 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
             - "There is only one community map app currently, and exactly the creation of it triggered the slow implementation of GPS for watches that got the hardware."
       - Garmin GPS watch android companion app does not have full features available offline.
         - https://old.reddit.com/r/Garmin/comments/i4rmr4/frustrated_that_garmin_connect_wouldnt_work/
+        - https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/108946/using-connect-app-without-internet-access
 *** awesome-pinned-gists
 - https://github.com/matchai/awesome-pinned-gists
   - Very similar overlap. But not as much proof-of-work. Can only see general output progress, not actual raw artifacts produced.
+*** https://github.com/yihong0618/2023
+- Very similar to what I'm thinking.
+  - Extra stuff here (prs, commits, etc).
+  - Just indexing by year, seems like a decent way to do things.
+*** https://github.com/yihong0618/GitHubPoster
+- Pretty neat. Proof-of-work is based on services. Or GPX one, can use local gpx files.
+*** https://github.com/flopp/GpxTrackPoster
+- gpx data heatmap.
 ** Quantified-Self:
 - https://github.com/woop/awesome-quantified-self
 - Don't prioritize/rely on monetizing anything.
