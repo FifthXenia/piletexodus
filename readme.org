@@ -113,6 +113,9 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 - gpx data heatmap.
 *** https://yihong.run/
 - This is nuts. I guess he's OK publishing his individual gpx routes.
+  - Ways I could anonomize:
+    - 1: Flatten to straight line, make time 00:00, remove elevation entries. (You have general proof of pacing, but don't know where I ran at, or when.)
+    - 2: Don't flatten, make time same date and 00:00. (So you have the gpx, you just don't know when I was there.)
 ** Quantified-Self:
 - https://github.com/woop/awesome-quantified-self
 - Don't prioritize/rely on monetizing anything.
