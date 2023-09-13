@@ -47,6 +47,9 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 - Add other users, to your allowed interactive users list. Then can do challenges (like weekly). Get reports (summaries) regarding everybodies completion, ranking in the competition.
 *** Proof-Of-Work Integrations:
 - Like for meditation, have a marketplace of verifiers (image recognition, make sure your in frame, etc), then output an attached approval/rejection regarding the successful completion of that activity.
+  - Can use ~Deploy Keys~ for proof-of-work uploading on device. (say directly from iot device, or mounted phone)
+    - https://stackoverflow.com/questions/26372417/github-oauth2-token-how-to-restrict-access-to-read-a-single-private-repo
+    - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#machine-users
 *** Monetary subscriptions to feeds (to artifact production)
 - If you like somebody who is making music or art, you can subscribe with a small amount per day, or something. Or queue it up per week (assuming daily post). Or maybe pay 0.00000001bitcoin/usd/20posts, or something.
   - (Current problem with say Github Sponsors, or Patreon, etc, is wtf am I paying for. How do I know I'm not just paying for your habit to diddle little children and eat cheetos? How do I know your even/actually doing anything? More transparency in output would help in this discernment, in to what exactly my investment is resulting in. So it works such that: I'm providing funding, given progress made in area x, via artifacts uploaded at y amount/frequency. I'm funding the process, less the outcome. The outcome will come.)
