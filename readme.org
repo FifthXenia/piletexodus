@@ -25,6 +25,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 - There should be a lane and place for those who wish to focus less on competition, and status, and domination, and instead focus more on expressing what they want to express, and living authentically and honestly according to their values. A chasm separating one from the relentless impositions of the outer world.
 - The earth is full of a bunch of addicted humans (myself included). This will help cleanse their mind and spirit, and provide them with additional insight and room to breathe.
 - Raise our standards of output, achievement, serenity, and satisfaction, collectively.
+- *Establish trust, status, continuity with one's values.*
 * How? (options)
 - 1: Plain text tracking (~.org~ / ~.md~ / ~.rst~, ~.txt~), typically via habit tables.
   - (Or exports (could be redacted) from some sort of tracking system, such as [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]], [[https://github.com/ml729/org-habit-stats][org-habit-stats]], [[https://github.com/ml729/calfw-blocks][calfw-blocks]], [[https://github.com/Fuco1/org-timeliney][org-timeline]], [[https://github.com/dmitrym0/org-hyperscheduler][org-hyperscheduler]])
