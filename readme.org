@@ -122,6 +122,11 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
     - 1: Flatten to straight line, make time 00:00, remove elevation entries. (You have general proof of pacing, but don't know where I ran at, or when.)
        - https://gis.stackexchange.com/questions/158105/how-to-anonymise-a-gps-file
     - 2: Don't flatten, make time same date and 00:00. (So you have the gpx, you just don't know when I was there.)
+*** Other
+- https://github.com/fg1/BLEHeartRateLogger
+- https://github.com/Waishnav/Watcher
+- https://github.com/kbre93/every-breath-you-take
+- https://github.com/kbre93/dont-hold-your-breath
 ** Quantified-Self:
 - https://github.com/woop/awesome-quantified-self
 - Don't prioritize/rely on monetizing anything.
