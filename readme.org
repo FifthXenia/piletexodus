@@ -73,7 +73,7 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 - https://github.com/anuraghazra/github-readme-stats
   - https://stackoverflow.com/questions/70073951/how-to-align-readme-stats-side-by-side-in-github
 
-#+HTML:<div style="display: flex; flex-direction: row;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=greghab&show_icons=true&theme=radical" /> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greghab&theme=radical&layout=compact" /> </div>
+#+HTML:<div style="display: flex; flex-direction: row;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=fxkrait&show_icons=true&theme=radical" /> <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxkrait&theme=radical&layout=compact" /> </div>
 * Others with somewhat similar conceptual overlap to note
 ** Action:
 *** hadge
