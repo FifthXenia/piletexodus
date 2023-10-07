@@ -129,6 +129,8 @@ https://github.com/FifthXenia/piletexodus/assets/7407672/686184f4-5cc0-44fa-94bd
 - https://github.com/kbre93/dont-hold-your-breath
 - https://github.com/VNOpenAI/pushup-counter-app
   - https://github.com/VNOpenAI/pushup-counter-app
+- https://github.com/simonw
+  - (self-updating profile readme)
 ** Quantified-Self:
 - https://github.com/woop/awesome-quantified-self
 - Don't prioritize/rely on monetizing anything.
