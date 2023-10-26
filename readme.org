@@ -26,15 +26,10 @@
 - You can subscribe to particular feeds, and mix and match them to a combined feed for browsing (if the feeds are public).
 - You can provide money for every x things produced in a given feed.
 ** Core Principle:
-- Promote ~Freedom of Action~ over ~Freedom of Speech not Reach~ (What Elon is doing with X)
-  - (Speech often divides and keeps us trapped, triggered and isolated within our self-constructs and coping strategies (it's pure left-brain communication and interaction, references mainly the past and previous concepts, static, festering and rotting, loathsome, dead, not true, not the things themselves but the images, plato's cave, language requires a subject and object, division and separation is a fundamental axiom), where as creative action and expression is often expansionary, diffusive, connective, empowering, lowers tensions, and tears down walls dividing us (more right-brain, full-spectrum, higher bandwidth, wider view, parallel).)
+- Promote ~Freedom of Action/Non-Action and Expression/Non-Expression~ over ~Freedom of Speech not Reach~ (What's going on over at X)
+  - (Speech often reasserts lack and limitation and existing paradigms, so let's leave the option open for creative action and expression, and the expansionary and connective.)
 * Why?
-- Ensure momentum, consistency, accountability, and encourage others.
-- Promote expression, over suppression.
-- Prevent people from self-destructing from the inside out, and/or from severing their imagination and ability to stretch and strive, reverting to a mere existence centered around the inputs of the external and the depositions of their internal dialogue telling them to stay down like a trained dog and lick the boot that feeds them so they don't get kicked and punted across the room. Expanded horizons are possible.
-- There should be a lane and place for those who wish to focus less on competition, and status, and domination, and instead focus more on expressing what they want to express, and living authentically and honestly according to their values. A chasm separating one from the relentless impositions of the outer world.
-- The earth is full of a bunch of addicted humans (myself included). This will help cleanse their mind and spirit, and provide them with additional insight and room to breathe.
-- Raise our standards of output, achievement, serenity, and satisfaction, collectively.
+- Promote expression, heedfulness, honesty, over suppression, neglect, and self-destruction.
 - *Establish trust, status, continuity with one's values.*
 * How? (options)
 - 1: Plain text tracking (~.org~ / ~.md~ / ~.rst~, ~.txt~), typically via habit tables.
