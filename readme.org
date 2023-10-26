@@ -22,9 +22,6 @@
 
 * The Core Idea (production feeds)
 - You track something, and you publish either an artifact or something to indicate proof-of-work (in it's own particular feed).
-** Tertiary Ideas (interaction, resources)
-- You can subscribe to particular feeds, and mix and match them to a combined feed for browsing (if the feeds are public).
-- You can provide money for every x things produced in a given feed.
 ** Core Principle:
 - Promote ~Freedom of Action/Non-Action and Expression/Non-Expression~ over ~Freedom of Speech not Reach~ (What's going on over at X)
   - (Speech often reasserts lack and limitation and existing paradigms, so let's leave the option open for creative action and expression, and the expansionary and connective.)
