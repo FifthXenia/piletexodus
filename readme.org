@@ -23,7 +23,7 @@
 ** The Core Idea (production feeds)
 - You track something, and you publish either an artifact or something to indicate proof-of-work (in it's own particular feed).
 *** Core Principle:
-- Promote ~Freedom of Action/Non-Action and Expression/Non-Expression~ over ~Freedom of Speech not Reach~ (What's going on over at X)
+- Promote ~Freedom of Action/Non-Action and Expression/Non-Expression~ over ~Freedom of Speech not Reach~ (What is being pushed over at X)
   - (Speech often reasserts lack and limitation and existing paradigms, so let's leave the option open for creative action and expression, and the expansionary and connective.)
 ** Why?
 - Promote expression, heedfulness, honesty, over suppression, neglect, and self-destruction.
