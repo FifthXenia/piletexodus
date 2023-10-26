@@ -1,16 +1,13 @@
 #+begin_html
-<div align="left">
-<img src=".images/Musei_vaticani_-_cortile_del_Belvedere_01137-9-500x.JPG" width="600" align="left">
-</div>
-<div align="right">
-<img src=".images/Rust_(programming_language)-Logo.wine.svg" width="75" align="right">
-  <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a" />
-</div>
-<br>
+   <table cellpadding="0">
+<tr style="padding: 0">
+<td valign="bottom"> <img src=".images/Musei_vaticani_-_cortile_del_Belvedere_01137-9-500x.JPG" width="600" align="left">
+</td>
+<td valign="bottom"> <img src=".images/Rust_(programming_language)-Logo.wine.svg" width="75" align="right">
+  <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a" /></td>
+</tr>
+</table>
   #+end_html
-
-
-#+HTML: <br>
 
 - *Goal:* ~Translate this type of energy, into an engineered system, and a process of living.~
 
