@@ -21,7 +21,7 @@
 ---------
 
 ** The Core Idea (production feeds)
-- You track something in it's own particular labeled feed, and publish an artifact to indicate proof-of-work.
+- You track something in it's own particular feed, and publish an artifact to indicate proof-of-work.
 ** Why?
 - Promote expression, heedfulness, honesty, over suppression, neglect, and self-destruction.
 - *Establish trust, a track record, and continuity with one's values.*
