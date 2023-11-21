@@ -1,5 +1,5 @@
 * Other Core Idea
-- Decentralize feed consumption locations (not instagram, soundcloud, but a generic feed that you can browse. Like ActivityPub for Twitter, RSS for text feeds/podcasts, etc. So like RSS feeds where all the cool stuff is being created and propogated.)
+- Decentralize feed consumption locations (not instagram, soundcloud, but a generic feed that you can browse. Like ActivityPub for Twitter, RSS for text feeds/podcasts, etc. So like RSS feeds where all the cool stuff is being created, propogated, and consumed.)
 * Community Indexer (TBD)
 - Indexer of individuals participating in this hosted at ~piletexod.us~
   - Add/Remove of individuals automated by their PRs and with merge bot rules.
