@@ -26,6 +26,7 @@
 - You track something in it's own particular feed, and publish an artifact to indicate proof-of-work.
 ** Why?
 - Promote expression, heedfulness, honesty, over suppression, neglect, and self-destruction.
+  - (suppresion results in wearing a mask, no boundaries, which results in resentment, a potpouri of comorbid illnesses, both mental and physical)
 - *Establish trust, a track record, and continuity with one's values.*
 ** Explorations
 - Further brainstorming, and explorations on this concept are located at: [[file:readme-exploratory.org]] 
