@@ -126,3 +126,10 @@
   - (Or exports (could be redacted) from some sort of tracking system, such as [[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]], [[https://github.com/ml729/org-habit-stats][org-habit-stats]], [[https://github.com/ml729/calfw-blocks][calfw-blocks]], [[https://github.com/Fuco1/org-timeliney][org-timeline]], [[https://github.com/dmitrym0/org-hyperscheduler][org-hyperscheduler]])
 - 2: Browsable artifact feed by day for a particular action (say for art/music)
   - (This could maybe be uploaded via a plain text document, with headers for a given day containing a external link to the content artifact. Then this could be hosted at say like ~piletexod.us/user/art~ for a art feed, etc, and these feeds could be listed under their profile in the indexer.)
+
+** Other
+Key Point to Understand about the Workings of Reality, and how piletexodus relates to it:
+
+    If you look at the vast majority of things that return to your present mind from your past - things you could call as regret, guilt, or “trauma”, they are all situations, where you secretly knew in the back of your mind that there was a more difficult path/choice to take that was best, or more analysis/caution/pause/restraint/communication/openness that should have been taken, that you didn’t take. You are reminded by this, because you did not go with the correct decision. You went with the “easier”, quicker, rasher, impulsive decision. And these correct decisions are often most always the more difficult one. So let’s train ourselves to do the difficult work today, so we will be ready for the difficulties of the future, and so we can make the decisions that are best going forward.
+
+
